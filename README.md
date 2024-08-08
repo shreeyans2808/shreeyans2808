@@ -54,7 +54,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shreeyans2808/shreeyans2808/output/snake.svg" alt="Snake animation" />
+## snake eating my contribution graph
+![snake gif](https://github.com/AravindaJogi/AravindaJogi/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
