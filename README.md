@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Shreeyans Arora.<br> I'm an aspiring ML Engineer from India.</h2>
+<h2 align="center">Hi 👋! My name is Shreeyans Arora.<br> I'm an aspiring ML and GenAI Engineer from India.</h2>
 
 ###
 
